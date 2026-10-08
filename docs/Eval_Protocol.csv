@@ -1,0 +1,10 @@
+﻿group,scenario,planned_cases,expected_behavior,status
+valid,CCCD ánh sáng chuẩn,50,Có thể auto-PASS nếu đủ toàn bộ điều kiện,Chưa chạy
+valid,CCCD ánh sáng yếu/góc mặt,50,Đo khả năng hoàn thành; không hạ ngưỡng để đạt target,Chưa chạy
+valid,Passport ánh sáng chuẩn,50,Đối chiếu OCR/face/liveness/PMS,Chưa chạy
+valid,Passport khác thiết bị/độ tuổi,50,Đo theo phân tầng,Chưa chạy
+attack,Sai người,20,Không auto-PASS,Chưa chạy
+attack,Ảnh in,20,Không auto-PASS,Chưa chạy
+attack,Video replay,20,Không auto-PASS,Chưa chạy
+invalid,Giấy tờ mờ/thiếu trường,20,Chuyển lễ tân khi không xác minh đủ,Chưa chạy
+operational,Booking/PMS/timeout,20,Không ghi thành công khi PMS chưa xác nhận,Chưa chạy
