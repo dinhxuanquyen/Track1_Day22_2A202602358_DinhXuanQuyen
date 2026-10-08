@@ -14,8 +14,7 @@ Tên hai tệp theo mẫu `[Tên]_Day22_model.xlsx` và `[Tên]_Day22_onepager.p
 
 ```text
 Track1_Day22_2A202602358_DinhXuanQuyen/
-├── README.md
-├── .gitignore
+├
 ├── DinhXuanQuyen_Day22_model.xlsx
 ├── DinhXuanQuyen_Day22_onepager.pdf
 ├── docs/
@@ -28,13 +27,7 @@ Track1_Day22_2A202602358_DinhXuanQuyen/
 │   ├── Eval_Protocol.csv
 │   ├── Eval_Results.csv
 │   └── DinhXuanQuyen_Day22_filled_template.docx
-├── templates/
-│   ├── Day22-AI-Product-GTM-Monetization-Model.xlsx
-│   └── Day22-AI-Product-GTM-One-Pager-Template.docx
-├── lab/
-│   └── HD_Lab22.md
-├── releases/   # ZIP để tải, không đưa vào Git
-└── tmp/        # Tệp làm việc tạm, không đưa vào Git
+
 ```
 
 ## Tài liệu bổ sung
