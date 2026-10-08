@@ -47,12 +47,8 @@ Track1_Day22_2A202602358_DinhXuanQuyen/
 
 Các tên tệp bổ sung được nhắc trong Excel nằm trong `docs/`. Không cần chuyển hoặc đổi tên các tab để mở workbook.
 
-## Trạng thái và cách nộp
+## Trạng thái
 
 - Mô hình cơ sở: doanh thu $162/hotel/tháng, COGS $51.216, GM 68.39%; đây là số từ giả định kế hoạch, chưa phải kết quả pilot.
 - Test người lạ đã cập nhật theo xác nhận người học; nội dung mới nhất ở biên bản và tab 5. Word/PDF giữ nguyên nên dòng trạng thái test trong bản đó thuộc bản trước khi cập nhật.
 - Eval/pilot và quyền, chi phí tích hợp PMS chưa có bằng chứng thực tế; đã ghi kế hoạch và deadline.
-- Đề yêu cầu One-Pager một trang; bản 3 trang được giữ theo yêu cầu người học.
-- Nộp **link repo trên Vlearn trước buổi tiếp theo**, theo mục 6.1. Chưa push repo hoặc submit Vlearn trong lần sắp xếp này.
-
-Thư mục `templates/` lưu mẫu gốc để tham khảo; không nhầm workbook mẫu với bài làm ở thư mục gốc. Thư mục `tmp/` và `releases/` được loại khỏi Git. Bộ ZIP chứa các tệp repo cần nộp, không chứa tệp tạm, thư mục `.git` hay ZIP lồng nhau.
